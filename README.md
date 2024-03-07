@@ -1,1 +1,1 @@
-# dpMV: Dual Pixel Multi View Videos Dataset (ECCV '24 Anonymous Submission)
+# [ECCV 2024 Submission] dp-LFVR
