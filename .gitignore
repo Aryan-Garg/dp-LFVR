@@ -1,0 +1,14 @@
+__pycache__
+test-raft
+results/
+.vscode/
+wandb/
+disparity_maps/
+lfvr_weights/
+metrics/
+time_results/
+conference_results/
+FbyF_temp_results/
+*.npy
+*.jpg
+*.png

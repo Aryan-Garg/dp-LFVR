@@ -1,0 +1,733 @@
+{
+    "videos": [
+        {
+            "name": "20230306_163705_999",
+            "frames": [
+                {
+                    "rgb": {
+                        "A": "image_060.jpg",
+                        "B": "image_061.jpg",
+                        "C": "image_061.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_060_left.jpg",
+                        "B": "image_061_left.jpg",
+                        "C": "image_061_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_060_right.jpg",
+                        "B": "image_061_right.jpg",
+                        "C": "image_061_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_060.jpg",
+                        "B": "image_061.jpg",
+                        "C": "image_061.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_070.jpg",
+                        "B": "image_071.jpg",
+                        "C": "image_071.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_070_left.jpg",
+                        "B": "image_071_left.jpg",
+                        "C": "image_071_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_070_right.jpg",
+                        "B": "image_071_right.jpg",
+                        "C": "image_071_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_070.jpg",
+                        "B": "image_071.jpg",
+                        "C": "image_071.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_080.jpg",
+                        "B": "image_081.jpg",
+                        "C": "image_081.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_080_left.jpg",
+                        "B": "image_081_left.jpg",
+                        "C": "image_081_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_080_right.jpg",
+                        "B": "image_081_right.jpg",
+                        "C": "image_081_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_080.jpg",
+                        "B": "image_081.jpg",
+                        "C": "image_081.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_090.jpg",
+                        "B": "image_091.jpg",
+                        "C": "image_091.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_090_left.jpg",
+                        "B": "image_091_left.jpg",
+                        "C": "image_091_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_090_right.jpg",
+                        "B": "image_091_right.jpg",
+                        "C": "image_091_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_090.jpg",
+                        "B": "image_091.jpg",
+                        "C": "image_091.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_100.jpg",
+                        "B": "image_101.jpg",
+                        "C": "image_101.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_100_left.jpg",
+                        "B": "image_101_left.jpg",
+                        "C": "image_101_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_100_right.jpg",
+                        "B": "image_101_right.jpg",
+                        "C": "image_101_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_100.jpg",
+                        "B": "image_101.jpg",
+                        "C": "image_101.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_110.jpg",
+                        "B": "image_111.jpg",
+                        "C": "image_111.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_110_left.jpg",
+                        "B": "image_111_left.jpg",
+                        "C": "image_111_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_110_right.jpg",
+                        "B": "image_111_right.jpg",
+                        "C": "image_111_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_110.jpg",
+                        "B": "image_111.jpg",
+                        "C": "image_111.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_120.jpg",
+                        "B": "image_121.jpg",
+                        "C": "image_121.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_120_left.jpg",
+                        "B": "image_121_left.jpg",
+                        "C": "image_121_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_120_right.jpg",
+                        "B": "image_121_right.jpg",
+                        "C": "image_121_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_120.jpg",
+                        "B": "image_121.jpg",
+                        "C": "image_121.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_130.jpg",
+                        "B": "image_131.jpg",
+                        "C": "image_131.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_130_left.jpg",
+                        "B": "image_131_left.jpg",
+                        "C": "image_131_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_130_right.jpg",
+                        "B": "image_131_right.jpg",
+                        "C": "image_131_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_130.jpg",
+                        "B": "image_131.jpg",
+                        "C": "image_131.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "20230306_163705_999",
+            "frames": [
+                {
+                    "rgb": {
+                        "A": "image_140.jpg",
+                        "B": "image_141.jpg",
+                        "C": "image_141.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_140_left.jpg",
+                        "B": "image_141_left.jpg",
+                        "C": "image_141_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_140_right.jpg",
+                        "B": "image_141_right.jpg",
+                        "C": "image_141_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_140.jpg",
+                        "B": "image_141.jpg",
+                        "C": "image_141.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_150.jpg",
+                        "B": "image_151.jpg",
+                        "C": "image_151.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_150_left.jpg",
+                        "B": "image_151_left.jpg",
+                        "C": "image_151_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_150_right.jpg",
+                        "B": "image_151_right.jpg",
+                        "C": "image_151_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_150.jpg",
+                        "B": "image_151.jpg",
+                        "C": "image_151.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_160.jpg",
+                        "B": "image_161.jpg",
+                        "C": "image_161.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_160_left.jpg",
+                        "B": "image_161_left.jpg",
+                        "C": "image_161_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_160_right.jpg",
+                        "B": "image_161_right.jpg",
+                        "C": "image_161_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_160.jpg",
+                        "B": "image_161.jpg",
+                        "C": "image_161.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_170.jpg",
+                        "B": "image_171.jpg",
+                        "C": "image_171.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_170_left.jpg",
+                        "B": "image_171_left.jpg",
+                        "C": "image_171_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_170_right.jpg",
+                        "B": "image_171_right.jpg",
+                        "C": "image_171_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_170.jpg",
+                        "B": "image_171.jpg",
+                        "C": "image_171.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_180.jpg",
+                        "B": "image_181.jpg",
+                        "C": "image_181.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_180_left.jpg",
+                        "B": "image_181_left.jpg",
+                        "C": "image_181_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_180_right.jpg",
+                        "B": "image_181_right.jpg",
+                        "C": "image_181_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_180.jpg",
+                        "B": "image_181.jpg",
+                        "C": "image_181.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_190.jpg",
+                        "B": "image_191.jpg",
+                        "C": "image_191.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_190_left.jpg",
+                        "B": "image_191_left.jpg",
+                        "C": "image_191_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_190_right.jpg",
+                        "B": "image_191_right.jpg",
+                        "C": "image_191_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_190.jpg",
+                        "B": "image_191.jpg",
+                        "C": "image_191.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_200.jpg",
+                        "B": "image_201.jpg",
+                        "C": "image_201.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_200_left.jpg",
+                        "B": "image_201_left.jpg",
+                        "C": "image_201_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_200_right.jpg",
+                        "B": "image_201_right.jpg",
+                        "C": "image_201_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_200.jpg",
+                        "B": "image_201.jpg",
+                        "C": "image_201.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_210.jpg",
+                        "B": "image_211.jpg",
+                        "C": "image_211.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_210_left.jpg",
+                        "B": "image_211_left.jpg",
+                        "C": "image_211_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_210_right.jpg",
+                        "B": "image_211_right.jpg",
+                        "C": "image_211_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_210.jpg",
+                        "B": "image_211.jpg",
+                        "C": "image_211.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "20230306_163705_999",
+            "frames": [
+                {
+                    "rgb": {
+                        "A": "image_220.jpg",
+                        "B": "image_221.jpg",
+                        "C": "image_221.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_220_left.jpg",
+                        "B": "image_221_left.jpg",
+                        "C": "image_221_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_220_right.jpg",
+                        "B": "image_221_right.jpg",
+                        "C": "image_221_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_220.jpg",
+                        "B": "image_221.jpg",
+                        "C": "image_221.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_230.jpg",
+                        "B": "image_231.jpg",
+                        "C": "image_231.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_230_left.jpg",
+                        "B": "image_231_left.jpg",
+                        "C": "image_231_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_230_right.jpg",
+                        "B": "image_231_right.jpg",
+                        "C": "image_231_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_230.jpg",
+                        "B": "image_231.jpg",
+                        "C": "image_231.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_240.jpg",
+                        "B": "image_241.jpg",
+                        "C": "image_241.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_240_left.jpg",
+                        "B": "image_241_left.jpg",
+                        "C": "image_241_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_240_right.jpg",
+                        "B": "image_241_right.jpg",
+                        "C": "image_241_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_240.jpg",
+                        "B": "image_241.jpg",
+                        "C": "image_241.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_250.jpg",
+                        "B": "image_251.jpg",
+                        "C": "image_251.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_250_left.jpg",
+                        "B": "image_251_left.jpg",
+                        "C": "image_251_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_250_right.jpg",
+                        "B": "image_251_right.jpg",
+                        "C": "image_251_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_250.jpg",
+                        "B": "image_251.jpg",
+                        "C": "image_251.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_260.jpg",
+                        "B": "image_261.jpg",
+                        "C": "image_261.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_260_left.jpg",
+                        "B": "image_261_left.jpg",
+                        "C": "image_261_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_260_right.jpg",
+                        "B": "image_261_right.jpg",
+                        "C": "image_261_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_260.jpg",
+                        "B": "image_261.jpg",
+                        "C": "image_261.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_270.jpg",
+                        "B": "image_271.jpg",
+                        "C": "image_271.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_270_left.jpg",
+                        "B": "image_271_left.jpg",
+                        "C": "image_271_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_270_right.jpg",
+                        "B": "image_271_right.jpg",
+                        "C": "image_271_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_270.jpg",
+                        "B": "image_271.jpg",
+                        "C": "image_271.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_280.jpg",
+                        "B": "image_281.jpg",
+                        "C": "image_281.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_280_left.jpg",
+                        "B": "image_281_left.jpg",
+                        "C": "image_281_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_280_right.jpg",
+                        "B": "image_281_right.jpg",
+                        "C": "image_281_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_280.jpg",
+                        "B": "image_281.jpg",
+                        "C": "image_281.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_290.jpg",
+                        "B": "image_291.jpg",
+                        "C": "image_291.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_290_left.jpg",
+                        "B": "image_291_left.jpg",
+                        "C": "image_291_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_290_right.jpg",
+                        "B": "image_291_right.jpg",
+                        "C": "image_291_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_290.jpg",
+                        "B": "image_291.jpg",
+                        "C": "image_291.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "20230306_163705_999",
+            "frames": [
+                {
+                    "rgb": {
+                        "A": "image_300.jpg",
+                        "B": "image_301.jpg",
+                        "C": "image_301.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_300_left.jpg",
+                        "B": "image_301_left.jpg",
+                        "C": "image_301_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_300_right.jpg",
+                        "B": "image_301_right.jpg",
+                        "C": "image_301_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_300.jpg",
+                        "B": "image_301.jpg",
+                        "C": "image_301.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_310.jpg",
+                        "B": "image_311.jpg",
+                        "C": "image_311.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_310_left.jpg",
+                        "B": "image_311_left.jpg",
+                        "C": "image_311_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_310_right.jpg",
+                        "B": "image_311_right.jpg",
+                        "C": "image_311_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_310.jpg",
+                        "B": "image_311.jpg",
+                        "C": "image_311.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_320.jpg",
+                        "B": "image_321.jpg",
+                        "C": "image_321.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_320_left.jpg",
+                        "B": "image_321_left.jpg",
+                        "C": "image_321_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_320_right.jpg",
+                        "B": "image_321_right.jpg",
+                        "C": "image_321_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_320.jpg",
+                        "B": "image_321.jpg",
+                        "C": "image_321.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_330.jpg",
+                        "B": "image_331.jpg",
+                        "C": "image_331.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_330_left.jpg",
+                        "B": "image_331_left.jpg",
+                        "C": "image_331_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_330_right.jpg",
+                        "B": "image_331_right.jpg",
+                        "C": "image_331_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_330.jpg",
+                        "B": "image_331.jpg",
+                        "C": "image_331.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_340.jpg",
+                        "B": "image_341.jpg",
+                        "C": "image_341.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_340_left.jpg",
+                        "B": "image_341_left.jpg",
+                        "C": "image_341_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_340_right.jpg",
+                        "B": "image_341_right.jpg",
+                        "C": "image_341_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_340.jpg",
+                        "B": "image_341.jpg",
+                        "C": "image_341.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_350.jpg",
+                        "B": "image_351.jpg",
+                        "C": "image_351.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_350_left.jpg",
+                        "B": "image_351_left.jpg",
+                        "C": "image_351_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_350_right.jpg",
+                        "B": "image_351_right.jpg",
+                        "C": "image_351_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_350.jpg",
+                        "B": "image_351.jpg",
+                        "C": "image_351.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_360.jpg",
+                        "B": "image_361.jpg",
+                        "C": "image_361.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_360_left.jpg",
+                        "B": "image_361_left.jpg",
+                        "C": "image_361_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_360_right.jpg",
+                        "B": "image_361_right.jpg",
+                        "C": "image_361_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_360.jpg",
+                        "B": "image_361.jpg",
+                        "C": "image_361.jpg"
+                    }
+                },
+                {
+                    "rgb": {
+                        "A": "image_370.jpg",
+                        "B": "image_371.jpg",
+                        "C": "image_371.jpg"
+                    },
+                    "left_dp": {
+                        "A": "image_370_left.jpg",
+                        "B": "image_371_left.jpg",
+                        "C": "image_371_left.jpg"
+                    },
+                    "right_dp": {
+                        "A": "image_370_right.jpg",
+                        "B": "image_371_right.jpg",
+                        "C": "image_371_right.jpg"
+                    },
+                    "dptdepth": {
+                        "A": "image_370.jpg",
+                        "B": "image_371.jpg",
+                        "C": "image_371.jpg"
+                    }
+                }
+            ]
+        }
+    ],
+    "skip": 10,
+    "rgb_path": "Video_data/",
+    "dp_path": "dp_data/",
+    "dpt_path": "./disparity_maps/disp_pixel4_BA",
+    "video_length": 8
+}
