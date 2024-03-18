@@ -1,1 +1,1 @@
-# [ECCV 2024 Submission] dp-LFVR
+# [Submission] dp-LFVR
